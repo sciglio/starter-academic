@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marco Scigliuzzo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Quantum Optics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Chalmers University
+  url: https://www.chalmers.se
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include light-matter interaction in structured waveguides and quantum acoustic with superconducting circuits.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantum optics
+- Quantum acoustic
+- Superconducting circuits
+- Left- and right-handed metamaterials
 
 # Education to show in About widget
 education:
@@ -45,22 +46,22 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ScigliuzzoM
   label: Follow me on Twitter
   display:
     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=2CxeAREAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sciglio
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://se.linkedin.com/in/marco-scigliuzzo-033b8588
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
