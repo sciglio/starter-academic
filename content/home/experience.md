@@ -35,15 +35,14 @@ experience:
         * Microwave pulses generation and readout
         * Data analysis
 
-  - title: Master in
-    company: University X
+  - title: Master student
+    company: University of Salento
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: Unisalento
+    location: Italy
+    date_start: '2015-06'
+    date_end: '2016-09'
+    description: Lithography process and microwave characterizations.
 design:
   columns: '2'
 ---
