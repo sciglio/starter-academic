@@ -35,7 +35,7 @@ experience:
         * Microwave pulses generation and readout
         * Data analysis
 
-  - title: Master student
+  - title: Microwave engineering
     company: University of Salento
     company_url: ''
     company_logo: Unisalento
