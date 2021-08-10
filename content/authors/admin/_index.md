@@ -72,8 +72,9 @@ email: ""
 highlight_name: false
 ---
 
-Marco Scigliuzzo is a PhD student working on quantum optics with superconducting circuits at Chalmers University of technology (Sweden). His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Marco Scigliuzzo is a PhD student working on quantum optics with superconducting circuits at Chalmers University of technology (Sweden). His research interests include light-matter interaction in a structured electromagnetic environment, quantum acoustic in microwave regime and quantum thermodynamics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The versatility of superconducting circuits allows the study of these fields on a single platform. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Scigliuzzo_20210418.pdf" "newtab" >}}resumé{{< /staticref >}}.
