@@ -22,21 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Quantum engineering
+    company: Chalmers University
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Sweden
+    date_start: '2016-09-01'
+    date_end: '2021-09-03'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
+        more than five years of experience in designing, fabricating and operating small (<4 qubits) quantum system. Main proficiency in:
+        * Simulation and modelling
+        * Microwave pulses generation and readout
+        * Data anlisys
+
+  - title: Master in
     company: University X
     company_url: ''
     company_logo: org-x
