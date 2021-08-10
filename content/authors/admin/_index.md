@@ -6,21 +6,22 @@ title: Marco Scigliuzzo
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Quantum Optics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Chalmers University
+  url: https://www.chalmers.se
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include light-matter interaction in structured waveguides and quantum acoustic with superconducting circuits.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantum optics
+- Quantum acoustic
+- Superconducting circuits
+- Left- and right-handed metamaterials
 
 # Education to show in About widget
 education:
