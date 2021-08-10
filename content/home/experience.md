@@ -25,15 +25,15 @@ experience:
   - title: Quantum engineering
     company: Chalmers University
     company_url: ''
-    company_logo: org-gc
+    company_logo: chalmers_gold
     location: Sweden
     date_start: '2016-09-01'
     date_end: '2021-09-03'
     description: |2-
-        more than five years of experience in designing, fabricating and operating small (<4 qubits) quantum system. Main proficiency in:
+        More than five years of experience in designing, fabricating and operating small (<4 qubits) quantum systems. Main proficiency in:
         * Simulation and modelling
         * Microwave pulses generation and readout
-        * Data anlisys
+        * Data analysis
 
   - title: Master in
     company: University X
