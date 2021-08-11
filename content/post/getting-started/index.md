@@ -1,10 +1,10 @@
 ---
 title: Welcome to my PhD defense
-subtitle: b
+subtitle: Sept 3rd 2021, Kollectrom, MC2 Chalmers
 # Effects of the environment on quantum systems: decoherence, bound states and high impedance in superconducting circuits.
 
 # Summary for listings and search engines
-summary: I will defend my thesis Effects of the 
+summary: I will defend my thesis **Effects of the environment on quantum systems**
 
 # I will defend my thesis **Effects of the environment on quantum systems: decoherence, bound states and high impedance in superconducting circuits** September the 3rd 2021. Everyone is welcome to attend.
 
