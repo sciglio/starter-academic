@@ -37,7 +37,7 @@ experience:
       * Data analysis
 
 - title: Microwave engineering
-  company: University X
+  company: University of Salento
   company_url: ''
   company_logo: unisalento
   location: California
