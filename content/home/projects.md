@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Quantum acoustics
+    tag: Quantum acoustics
+  - name: Structured environment
+    tag:  Structured environment
+  -name: Quantum Thermodynamics
+  tag: quantum thermodynamics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
