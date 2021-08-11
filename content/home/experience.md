@@ -43,7 +43,7 @@ experience:
   location: Italy
   date_start: '2015-09-01'
   date_end: '2016-09-01'
-  description: Taught electronic engineering and researched semiconductor physics.
+  description: Lithography process and microwave characterizations.
 
 #  - title: Quantum engineering
 #    company: Chalmers University
