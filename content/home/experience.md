@@ -38,7 +38,7 @@ experience:
   - title: Microwave engineering
     company: University of Salento
     company_url: ''
-#    company_logo: unisalento
+    company_logo: org-x
     location: Italy
     date_start: '2015-06-1'
     date_end: '2016-09-1'
