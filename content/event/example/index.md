@@ -1,7 +1,7 @@
 ---
 title: Popular presentation on photon thermometry
 
-event: Popular science course
+event: Whatch the video!
 event_url: https://www.youtube.com/watch?v=B0eGCNCAvLo
 
 location: Youtube
