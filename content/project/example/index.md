@@ -9,7 +9,7 @@ date: "2020"
 external_link: ""
 
 image:
-  caption: Photo by  at
+  caption: Illustration by Daniel Špaček at **neuroncollective.com**
   focal_point: Smart
 
 links:
