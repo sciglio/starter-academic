@@ -1,6 +1,7 @@
 ---
 title: Welcome to my PhD defense
-subtitle: Effects of the environment on quantum systems: decoherence, bound states and high impedance in superconducting circuits.
+subtitle: b
+# Effects of the environment on quantum systems: decoherence, bound states and high impedance in superconducting circuits.
 
 # Summary for listings and search engines
 summary: a
