@@ -23,11 +23,11 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Data Analysis
+- description: 100%
+  icon: temperature-frigid
   icon_pack: fas
-  name: Photography
+  name: Cryogenic setup
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
