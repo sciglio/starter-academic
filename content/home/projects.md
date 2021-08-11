@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Quantum acoustics
+  - name: Mechanics
     tag: Quantum acoustics
-  - name: Structured environment
+  - name: Metamaterials
     tag:  Structured environment
-  -name: Quantum Thermodynamics
-  tag: quantum thermodynamics
+  -name: Thermodynamics
+  tag: Quantum thermodynamics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
