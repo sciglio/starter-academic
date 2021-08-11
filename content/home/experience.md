@@ -42,7 +42,7 @@ experience:
     location: Italy
     date_start: '2015-06-1'
     date_end: '2016-09-1'
-    description: Lithography process and microwave characterizations.
+    description: |2- Lithography process and microwave characterizations.
 
 design:
   columns: '2'
