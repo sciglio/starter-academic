@@ -16,16 +16,16 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description: professional
   icon: python
   icon_pack: fab
-  name: Python
-- description: 100%
+  name: Instruments driver
+- description: professional
   icon: chart-line
   icon_pack: fas
   name: Data Analysis
-- description: 100%
-  icon: temperature-frigid
+- description: advanced
+  icon: thermometer-quarter
   icon_pack: fas
   name: Cryogenic setup
 
