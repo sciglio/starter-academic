@@ -41,8 +41,8 @@ experience:
   company_url: ''
   company_logo: unisalento
   location: Italy
-  date_start: '2016-01-01'
-  date_end: '2020-12-31'
+  date_start: '2015-09-01'
+  date_end: '2016-09-01'
   description: Taught electronic engineering and researched semiconductor physics.
 
 #  - title: Quantum engineering
