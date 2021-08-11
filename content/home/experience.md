@@ -31,11 +31,12 @@ experience:
     date_end: '2021-09-03'
     description: |2-
         More than five years of experience in designing, fabricating and operating small (<4 qubits) quantum systems. Main proficiency in:
+        
         * Simulation and modelling
         * Microwave pulses generation and readout
         * Data analysis
 
-#  - title: Microwave engineering
+  - title: Microwave engineering
 #    company: University of Salento
 #    company_url: ''
 #    company_logo: org-x
