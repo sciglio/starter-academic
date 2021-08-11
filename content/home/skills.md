@@ -16,18 +16,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: professional
+- description: ""
+  icon: pencil-ruler
+  icon_pack: fas
+  name: Design
+- description: ""
+  icon: ruler
+  icon_pack: fab
+  name: Measurements
+- description: ""
+  icon: igloo
+  icon_pack: fas
+  name: Cryogenic setup
+- description: ""
   icon: python
   icon_pack: fab
   name: Instruments driver
-- description: professional
+- description: ""
   icon: chart-line
   icon_pack: fas
   name: Data Analysis
-- description: advanced
-  icon: thermometer-quarter
-  icon_pack: fas
-  name: Cryogenic setup
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
