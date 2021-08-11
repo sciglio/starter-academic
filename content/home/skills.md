@@ -21,8 +21,12 @@ feature:
   icon_pack: fas
   name: Design
 - description: ""
+  icon: stroopwafel
+  icon_pack: fas
+  name: Fabrication
+- description: ""
   icon: ruler
-  icon_pack: fab
+  icon_pack: fas
   name: Measurements
 - description: ""
   icon: igloo
