@@ -2,7 +2,7 @@
 title: Popular presentation on photon thermometry
 
 event: Popular science course
-event_url: https://example.org
+event_url: https://www.youtube.com/watch?v=B0eGCNCAvLo
 
 location: Youtube
 address:
