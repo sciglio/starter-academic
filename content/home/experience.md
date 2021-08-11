@@ -30,20 +30,20 @@ experience:
   date_start: '2016-09-01'
   date_end: '2021-09-03'
   description: |2-
-      More than five years of experience in designing, fabricating and operating small (<4 qubits) quantum systems. Main proficiency in:
+      More than five years of experience in designing, fabricating and operating small (<4 qubits) quantum systems. Main proficiencies include:
 
       * Simulation and modelling
       * Microwave pulses generation and readout
       * Data analysis
 
-- title: Microwave engineering
-  company: University of Salento
+- title: Professor of Semiconductor Physics
+  company: University X
   company_url: ''
   company_logo: unisalento
-  location: Italy
-  date_start: '2015-09-1'
-  date_end: '2016-09-1'
-  description: Lithography process and microwave characterization.
+  location: California
+  date_start: '2016-01-01'
+  date_end: '2020-12-31'
+  description: Taught electronic engineering and researched semiconductor physics.
 
 #  - title: Quantum engineering
 #    company: Chalmers University
