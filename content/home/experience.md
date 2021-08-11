@@ -36,7 +36,7 @@ experience:
       * Microwave pulses generation and readout
       * Data analysis
 
-- title: Professor of Semiconductor Physics
+- title: Microwave engineering
   company: University X
   company_url: ''
   company_logo: unisalento
