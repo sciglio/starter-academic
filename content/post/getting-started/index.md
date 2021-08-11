@@ -3,7 +3,9 @@ title: Welcome to my PhD defense
 subtitle: Effects of the environment on quantum systems: decoherence, bound states and high impedance in superconducting circuits.
 
 # Summary for listings and search engines
-summary: I will defend my thesis Effects of the environment on quantum systems: decoherence, bound states and high impedance in superconducting circuits September the 3rd 2021. Everyone is welcome to attend.
+summary: a
+
+# I will defend my thesis **Effects of the environment on quantum systems: decoherence, bound states and high impedance in superconducting circuits** September the 3rd 2021. Everyone is welcome to attend.
 
 # Link this post with a project
 projects: []
