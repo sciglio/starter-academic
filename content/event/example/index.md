@@ -13,7 +13,7 @@ address:
   country:
 
 summary: Simple explanation on photon temperature and how to measure it.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "The dilution refrigerators used in quantum optics experiments with superconducting qubits are the among the coldest spots in the whole universe. In this video we show how we fabricate superconducting qubits and how we use them to measure the photon temperature."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
