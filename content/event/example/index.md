@@ -2,7 +2,7 @@
 title: Popular presentation on photon thermometry
 
 event: Popular science course
-event_url: https://www.youtube.com/watch?v=B0eGCNCAvLo
+event_url: https://example.org
 
 location: Youtube
 address:
@@ -12,17 +12,17 @@ address:
   postcode:
   country:
 
-summary: Simple video regarding the photon temperature and how we measure it.
-abstract: In
+summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-07-07"
-date_end: "2099-07-07"
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-07-07"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Marco Scigliuzzo**]'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
