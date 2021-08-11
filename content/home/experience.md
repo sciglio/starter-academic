@@ -35,14 +35,14 @@ experience:
         * Microwave pulses generation and readout
         * Data analysis
 
-  - title: Microwave engineering
-    company: University of Salento
-    company_url: ''
-    company_logo: org-x
-    location: Italy
-    date_start: '2015-06-1'
-    date_end: '2016-09-1'
-    description: |2- Lithography process and microwave characterizations.
+#  - title: Microwave engineering
+#    company: University of Salento
+#    company_url: ''
+#    company_logo: org-x
+#    location: Italy
+#    date_start: '2015-06-1'
+#    date_end: '2016-09-1'
+#    description: |2- Lithography process and microwave characterizations.
 
 design:
   columns: '2'
