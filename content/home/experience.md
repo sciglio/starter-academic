@@ -36,14 +36,14 @@ experience:
       * Microwave pulses generation and readout
       * Data analysis
 
-- title: Professor of Semiconductor Physics
-  company: University X
+- title: Microwave engineering
+  company: University of Salento
   company_url: ''
   company_logo: unisalento
-  location: California
-  date_start: '2016-01-01'
-  date_end: '2020-12-31'
-  description: Taught electronic engineering and researched semiconductor physics.
+  location: Italy
+  date_start: '2015-09-1'
+  date_end: '2016-09-1'
+  description: Lithography process and microwave characterization.
 
 #  - title: Quantum engineering
 #    company: Chalmers University
