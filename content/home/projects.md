@@ -31,7 +31,7 @@ content:
     tag: Quantum acoustics
   - name: Metamaterials
     tag:  Structured environment
-  -name: Thermodynamics
+  - name: Thermodynamics
     tag: Quantum thermodynamics
 
 design:
