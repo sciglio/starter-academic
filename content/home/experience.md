@@ -40,8 +40,8 @@ experience:
     company_url: ''
 #    company_logo: unisalento
     location: Italy
-    date_start: '2015-06'
-    date_end: '2016-09'
+    date_start: '2015-06-1'
+    date_end: '2016-09-1'
     description: Lithography process and microwave characterizations.
 
 design:
