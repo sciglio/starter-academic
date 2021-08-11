@@ -30,7 +30,8 @@ experience:
     date_start: '2016-09-01'
     date_end: '2021-09-03'
     description: |2-
-        More than five years of experience in designing, fabricating and operating small (<4 qubits) quantum systems. Main proficiency in:
+        Main responsibilities included:
+        
         * Simulation and modelling
         * Microwave pulses generation and readout
         * Data analysis
