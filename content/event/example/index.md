@@ -1,5 +1,5 @@
 ---
-title: Popular presentation on photon thermometry
+title: Popular science presentation on photon thermometry
 
 event: Whatch the video!
 event_url: https://www.youtube.com/watch?v=B0eGCNCAvLo
