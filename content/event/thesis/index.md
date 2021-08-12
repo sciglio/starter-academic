@@ -12,13 +12,13 @@ address: Kemivägen 9, MC2-huset
   postcode:
   country: Sweden
 
-summary: PhD thesis in quantum optics defense. Opponent: Prof. Johannes Fink.
+summary: PhD thesis in quantum optics defense. # Opponent: Prof. Johannes Fink.
 abstract: "The dilution refrigerators used in quantum optics experiments with superconducting qubits are the among the coldest spots in the whole universe. In this video we show how we fabricate superconducting qubits and how we use them to measure the photon temperature."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-09-03T10:00:00Z"
-date_end: "2121-09-03T13:00:00Z"
+date_end: "2021-09-03T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
