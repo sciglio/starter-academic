@@ -1,7 +1,7 @@
 ---
 title: PhD thesis defense
 
-event: Watch defense on zoom!
+event: Watch the defense on zoom!
 event_url: https://www.youtube.com/watch?v=B0eGCNCAvLo
 
 location: Kollektorn, lecture room,
