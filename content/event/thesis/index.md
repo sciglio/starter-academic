@@ -12,7 +12,7 @@ region:
 postcode:
 country:
 
-summary: PhD thesis in quantum optics defense. Opponent: Prof. Johannes Fink.
+summary: PhD thesis in quantum optics defense. #Opponent: Prof. Johannes Fink.
 abstract: "Superconducting circuits in the quantum regime represent a viable platform for microwave quantum optics, quantum simulations and quantum computing. In the last two decades, a large effort brought this architecture from an academic curiosity to concrete technology."
 
 #In this thesis, we study the effects of the environment on superconducting circuits. We consider mainly two typologies of the environment. On one hand, we study the classical baths inevitably coupled to the circuits, in particular the substrate where they are fabricated and the highly attenuated coaxial lines used for controlling them, which are the main sources for decoherence. On the other hand, we study structured electromagnetic environments that shape the density of states for the circuits, modifying their energy structure and their excitation properties.   
