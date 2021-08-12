@@ -2,7 +2,7 @@
 title: PhD thesis defense
 
 event: Watch the defense on zoom!
-event_url: https://www.youtube.com/watch?v=B0eGCNCAvLo
+event_url: https://chalmers.zoom.us/j/3655743826?pwd=MDNid0l3UHRCUmlZeGRTVWNPM25jUT09
 
 location: Kollektorn, Kemivägen 9, MC2-huset
 address:
