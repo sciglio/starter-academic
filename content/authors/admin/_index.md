@@ -48,8 +48,8 @@ social:
   label: Follow me on Twitter
   display:
     header: true
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=2CxeAREAAAAJ
 - icon: github
   icon_pack: fab
@@ -60,6 +60,10 @@ social:
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/search/?query=Scigliuzzo%2C+M&searchtype=author&source=header
+
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://se.linkedin.com/in/marco-scigliuzzo-033b8588
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
