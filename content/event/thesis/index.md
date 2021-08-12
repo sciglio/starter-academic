@@ -1,28 +1,28 @@
 ---
-title: Popular presentation on photon thermometry
+title: PhD thesis defense
 
-event: Whatch the video!
+event: Watch defense on zoom!
 event_url: https://www.youtube.com/watch?v=B0eGCNCAvLo
 
-location: Youtube
-address:
+location: Kollektorn, lecture room,
+address: Kemivägen 9, MC2-huset
   street:
-  city:
+  city: Göteborg
   region:
   postcode:
-  country:
+  country: Sweden
 
-summary: Simple explanation on photon temperature and how to measure it.
+summary: PhD thesis in quantum optics defense. Opponent: Prof. Johannes Fink, Institute of Science and Technology (IST), Vienna, Austria
 abstract: "The dilution refrigerators used in quantum optics experiments with superconducting qubits are the among the coldest spots in the whole universe. In this video we show how we fabricate superconducting qubits and how we use them to measure the photon temperature."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-07-07T00:00:00Z"
-date_end: "2121-07-07T00:00:00Z"
+date: "2021-09-03T10:00:00Z"
+date_end: "2121-09-03T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-08-01T00:00:00Z"
 
 authors: []
 tags: []
