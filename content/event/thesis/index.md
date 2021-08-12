@@ -4,8 +4,8 @@ title: PhD thesis defense
 event: Watch the defense on zoom!
 event_url: https://www.youtube.com/watch?v=B0eGCNCAvLo
 
-location: Kollektorn
-address: Kemivägen 9, MC2-huset
+location: Kollektorn, Kemivägen 9, MC2-huset
+address:
 street:
 city:
 region:
