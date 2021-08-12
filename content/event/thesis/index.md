@@ -12,7 +12,7 @@ address: Kemivägen 9, MC2-huset
   postcode:
   country: Sweden
 
-summary: PhD thesis in quantum optics defense. Opponent: Prof. Johannes Fink, Institute of Science and Technology (IST), Vienna, Austria
+summary: PhD thesis in quantum optics defense. Opponent: Prof. Johannes Fink.
 abstract: "The dilution refrigerators used in quantum optics experiments with superconducting qubits are the among the coldest spots in the whole universe. In this video we show how we fabricate superconducting qubits and how we use them to measure the photon temperature."
 
 # Talk start and end times.
@@ -31,7 +31,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Marco Scigliuzzo**]'
+  caption: 'Image credit: [**Francesco Scigliuzzo**]'
   focal_point: Right
 
 links:
@@ -57,5 +57,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- Quantum thermodynamics
+- Metamaterials
 ---
