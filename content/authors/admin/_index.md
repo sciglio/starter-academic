@@ -57,6 +57,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://se.linkedin.com/in/marco-scigliuzzo-033b8588
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/search/?query=Scigliuzzo%2C+M&searchtype=author&source=header
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
