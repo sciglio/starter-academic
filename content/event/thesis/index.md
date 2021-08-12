@@ -4,13 +4,13 @@ title: PhD thesis defense
 event: Watch the defense on zoom!
 event_url: https://www.youtube.com/watch?v=B0eGCNCAvLo
 
-location: Kollektorn, lecture room,
+location: Kollektorn
 address: Kemivägen 9, MC2-huset
-  street:
-  city: Göteborg
-  region:
-  postcode:
-  country: Sweden
+street:
+city:
+region:
+postcode:
+country:
 
 summary: PhD thesis in quantum optics defense. # Opponent: Prof. Johannes Fink.
 abstract: "The dilution refrigerators used in quantum optics experiments with superconducting qubits are the among the coldest spots in the whole universe. In this video we show how we fabricate superconducting qubits and how we use them to measure the photon temperature."
