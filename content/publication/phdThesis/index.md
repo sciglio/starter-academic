@@ -37,7 +37,7 @@ abstract: Superconducting circuits in the quantum regime represent a viable plat
 #These results may help to improve the performance of superconducting circuits and their setups. Moreover, we hope that our experiments can provide tools for quantum thermodynamics, quantum simulation and quantum computing.
 
 # Summary. An optional shortened abstract.
-summary: The temperature of microwave modes in highly attenuated coaxial line in cryogenic environment is measured from the coherent photon scattering by a superconducting qubit.
+summary: An artificial atom is not in perfect vacuum. The interaction with non-equilibrium baths and the electromagnetic environment alters its energy structure and its dynamics.
 
 tags: [Thesis]
 
