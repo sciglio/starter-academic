@@ -29,8 +29,7 @@ experience:
   location: Sweden
   date_start: '2017-09-01'
   date_end: '2019-12-01'
-  description: |2-
-  What is circuit quantum electrodynamics?
+  description: |2-   What is circuit quantum electrodynamics?
   Building blocks of quantum mechanics and quantum optics
 
 
