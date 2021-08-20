@@ -1,15 +1,15 @@
 ---
-title: Welcome to my PhD defense
-subtitle: Sept 3rd 2021, Kollectrom, MC2 Chalmers
+title: Quantum Optics and Quantum Information
+subtitle: Chalmers, FKA 173
 # Effects of the environment on quantum systems: decoherence, bound states and high impedance in superconducting circuits.
 
 # Summary for listings and search engines
-summary: I will defend my thesis **Effects of the environment on quantum systems**
+summary: Teaching assistent
 
 # I will defend my thesis **Effects of the environment on quantum systems: decoherence, bound states and high impedance in superconducting circuits** September the 3rd 2021. Everyone is welcome to attend.
 
 # Link this post with a project
-projects: []
+projects: [Teaching]
 
 # Date published
 date: "2020-12-13T00:00:00Z"
