@@ -79,7 +79,7 @@ email: ""
 highlight_name: true
 ---
 
-Marco Scigliuzzo is a PhD student working on quantum optics with superconducting circuits at "[Chalmers University of Technology](lrs.stodet@chalmers.se)" (Sweden). His research interests include light-matter interaction in a structured electromagnetic environment, quantum acoustic in microwave regime and quantum thermodynamics.
+Marco Scigliuzzo is a PhD student working on quantum optics with superconducting circuits at [Chalmers University of Technology](https://www.chalmers.se) in the group of [prof. Per Delsing](http://www.chalmers.se/en/staff/Pages/per-delsing.aspx) and [prof. Simone Gasparinetti](https://202q-lab.se/). His research interests include light-matter interaction in a structured electromagnetic environment, quantum acoustic in microwave regime and quantum thermodynamics.
 
 The versatility of superconducting circuits allows the study of these fields on a single platform.
 
