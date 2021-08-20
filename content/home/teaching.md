@@ -29,36 +29,8 @@ experience:
   location: Sweden
   date_start: '2017-09-01'
   date_end: '2019-12-01'
-  description: |2-   What is circuit quantum electrodynamics?
-  Building blocks of quantum mechanics and quantum optics
+  description: What is circuit quantum electrodynamics?
 
-
-
-
-#  - title: Quantum engineering
-#    company: Chalmers University
-#    company_url: ''
-#    company_logo: chalmers_gold
-#    location: Sweden
-#    date_start: '2016-09-01'
-#    date_end: '2021-09-03'
-#    description: |2-
-#        More than five years of experience in designing, fabricating and operating small (<4 qubits) quantum systems. Main proficiency in:
-#
-#        * Simulation and modelling
-#        * Microwave pulses generation and readout
-#        * Data analysis
-
-
-
-#  - title: Microwave engineering
-#    company: University of Salento
-#    company_url: ''
-#    company_logo: org-x
-#    location: Italy
-#    date_start: '2015-06-1'
-#    date_end: '2016-09-1'
-#    description: |2- Lithography process and microwave characterizations.
 
 design:
   columns: '2'
