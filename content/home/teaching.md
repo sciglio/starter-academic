@@ -32,16 +32,7 @@ experience:
   description: |2-
   What is circuit quantum electrodynamics?
   Building blocks of quantum mechanics and quantum optics
-  - two-level systems (qubits) and the Bloch sphere;
-  Quantizing an electronic circuit.
-  Interactions between light and matter
-  - photons,  classical and non-classical states of radiation;
-  - atom-field interaction,  Rabi-oscillations and the Jaynes-Cummings hamiltonian;
-  - quantum decoherence;
-  - read-out of quantum information.
-  Quantum information science
-  - quantum algorithms, universal gate sets, Deutsch-Josza's, and Grover's algorithms;
-  - quantum communication; teleportation and quantum cryptography.
+
 
 
 
