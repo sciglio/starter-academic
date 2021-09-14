@@ -6,7 +6,7 @@ title: Marco Scigliuzzo
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Quantum Optics
+role: PhD in Quantum Optics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -79,9 +79,10 @@ email: ""
 highlight_name: true
 ---
 
-Marco Scigliuzzo is a PhD student working on quantum optics with superconducting circuits at [Chalmers University of Technology](https://www.chalmers.se) in the groups of prof. Per [Delsing](http://www.chalmers.se/en/staff/Pages/per-delsing.aspx) and prof. Simone [Gasparinetti](https://202q-lab.se/). His research interests include light-matter interaction in a structured electromagnetic environment, quantum acoustic in microwave regime and quantum thermodynamics.
+I obtained my PhD in quantum optics working with superconducting circuits at [Chalmers University of Technology](https://www.chalmers.se) in the groups of prof. Per [Delsing](http://www.chalmers.se/en/staff/Pages/per-delsing.aspx) and prof. Simone [Gasparinetti](https://202q-lab.se/). My research interests include light-matter interaction in a structured electromagnetic environment, quantum acoustic in microwave regime and quantum thermodynamics.
 
 The versatility of superconducting circuits allows the study of these fields on a single platform.
 
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Scigliuzzo_20210418.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my [PhD thesis](https://research.chalmers.se/publication/525161/file/525161_Fulltext.pdf).
