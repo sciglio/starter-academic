@@ -6,12 +6,12 @@ title: Marco Scigliuzzo
 superuser: true
 
 # Role/position/tagline
-role: PhD in Quantum Optics
+role: Post doc in Quantum Optics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Chalmers University
-  url: https://www.chalmers.se
+- name: EPFL
+  url: https://www.epfl.ch/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include light-matter interaction in structured waveguides and quantum acoustic with superconducting circuits.
@@ -79,7 +79,7 @@ email: ""
 highlight_name: true
 ---
 
-I obtained my PhD in quantum optics working with superconducting circuits at [Chalmers University of Technology](https://www.chalmers.se) in the groups of prof. Per [Delsing](http://www.chalmers.se/en/staff/Pages/per-delsing.aspx) and prof. Simone [Gasparinetti](https://202q-lab.se/). My research interests include light-matter interaction in a structured electromagnetic environment, quantum acoustic in microwave regime and quantum thermodynamics.
+I am a Post doc in the laboratory ([K-lab](https://www.epfl.ch/labs/k-lab/)) of prof. Tobias [Kippenberg](https://people.epfl.ch/tobias.kippenberg?lang=en). I obtained my PhD in quantum optics working with superconducting circuits at [Chalmers University of Technology](https://www.chalmers.se) in the groups of prof. Per [Delsing](http://www.chalmers.se/en/staff/Pages/per-delsing.aspx) and prof. Simone [Gasparinetti](https://202q-lab.se/). My research interests include light-matter interaction in a structured electromagnetic environment, quantum acoustic in microwave regime and quantum thermodynamics.
 
 The versatility of superconducting circuits allows the study of these fields on a single platform.
 
