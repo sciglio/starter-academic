@@ -22,14 +22,16 @@ twitter: ''
 
 email: marco.scigliuzzo.physics@gmail.com
 address:
-  street: Kemivägen 9
-  city: Göteborg
-  region: Västra Götaland
-  postcode: '412 58'
-  country: Sweden
+  street: EPFL-SB-IPHYS-LPQM, PH D3 365, Station 3
+  city: Lausanne
+  region: Vaud
+  postcode: 'CH-1015'
+  country: Switzerland
 coordinates:
-  latitude: '57.69144604188871'
-  longitude: '11.975775998381781'
+#  latitude: '57.69144604188871'
+#  longitude: '11.975775998381781'
+  latitude: '46.5217739'
+  longitude: '6.5726988'
 contact_links:
   - icon: twitter
     icon_pack: fab
