@@ -43,6 +43,10 @@ contact_links:
     name: Skype Me
     link: 'skype:marco.scigliuzzo.physics'
 
+map:
+  provider: 'google'
+  api_key: ''
+
 # Site header
 
 main_menu:
