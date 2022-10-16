@@ -28,8 +28,8 @@ experience:
   company_logo: EPFL
   location: Switzerland
   date_start: '2021-11-01'
-  date_end: 'Now'
-  description: xzxz
+  date_end:
+  description: 
 
 
 - title: Quantum engineering
