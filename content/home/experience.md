@@ -29,8 +29,7 @@ experience:
   location: Switzerland
   date_start: '2021-11-01'
   date_end:
-  description: 
-
+  description: postdoc
 
 - title: Quantum engineering
   company: Chalmers University
