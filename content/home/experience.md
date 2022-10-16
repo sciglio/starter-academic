@@ -29,7 +29,7 @@ experience:
   location: Switzerland
   date_start: '2021-11-01'
   date_end: 'Now'
-  description: 
+  description: xzxz
 
 
 - title: Quantum engineering
