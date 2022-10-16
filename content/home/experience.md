@@ -25,7 +25,7 @@ experience:
 - title: Quantum engineering
   company: EPFL
   company_url: ''
-  company_logo: EPFL_logo
+  company_logo: chalmers_gold
   location: Switzerland
   date_start: '2021-11-01'
   date_end:
