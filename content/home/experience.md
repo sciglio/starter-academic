@@ -23,6 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 - title: Quantum engineering
+  company: EPFL
+  company_url: ''
+  company_logo: EPFL
+  location: Switzerland
+  date_start: '2021-11-01'
+  date_end: 'Now'
+  description: 
+
+
+- title: Quantum engineering
   company: Chalmers University
   company_url: ''
   company_logo: chalmers_gold
