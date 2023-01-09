@@ -83,6 +83,6 @@ I am a Post doc in the laboratory ([K-lab](https://www.epfl.ch/labs/k-lab/)) of 
 
 The versatility of superconducting circuits allows the study of these fields on a single platform.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Scigliuzzo_20210418.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Scigliuzzo_2023_01_01.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my [PhD thesis](https://research.chalmers.se/publication/525161/file/525161_Fulltext.pdf).
